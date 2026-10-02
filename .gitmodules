@@ -1,0 +1,9 @@
+[submodule "services/front"]
+	path = services/front
+	url = https://github.com/nijasx3/vibngo-front.git
+[submodule "services/back"]
+	path = services/back
+	url = https://github.com/misterwhite44/vibngo_back.git
+[submodule "services/ai"]
+	path = services/ai
+	url = https://github.com/benoista/VibnGo-ai-service.git
